@@ -1,0 +1,56 @@
+#one{
+	height:75%;
+	width:75%;
+}
+#but1{
+	border: 1px solid blue;
+	font-color:blue;
+}
+#box1{
+	height:80px;
+	width:80px;
+	border-radius:390px;
+}
+#para1{
+	opacity: 0.5px;
+}
+#img2{
+	height: 100%;
+	width: 90%;
+
+}
+#icon{
+	color: white;
+	font-size: 40px;
+}
+#a9{
+	height: 100%;
+	width: 100%;
+}
+#a10{
+	padding-top: 30px;
+}
+#a14{
+	color: purple;
+}
+.a15{
+	margin-top: 50px;
+}
+/*#a16{
+	font-size: 25px;
+}*/
+.card{
+	border: none;
+}
+#b{
+	height: 500px;
+	width: 1005;
+}
+#bim4{
+	background-image: url('Images/pic4.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 900px;
+	width: 100%;
+
+}
